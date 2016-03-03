@@ -42,3 +42,39 @@
   padding: 20px;
   border: 2px solid black;
 }
+@media screen and (min-width : 385px) {
+ .promo{
+   background-color: #ff8080;
+ }
+ .aside{
+   background-color: #ff8080;
+ }
+ .content{
+   background-color: #ff8080;
+ }
+ .nav{
+   background-color: #ff8080;
+ }
+ .header{
+   background-color: #ff8080;
+ }
+}
+
+
+@media screen and (min-width : 768px) {
+ .promo{
+   background-color: #206040;
+ }
+ .aside{
+   background-color: #206040;
+ }
+ .content{
+   background-color: #206040;
+ }
+ .nav{
+   background-color: #206040;
+ }
+ .header{
+   background-color: #206040;
+ }
+}
